@@ -7,4 +7,4 @@ Read the document to understand;
 2. Application 
 3. Case studies
 
-Read my [paper] (https://parasitesandvectors.biomedcentral.com/articles/sections/protozoa-and-protozoan-diseases) to understand better
+Read my [paper] (/articles/sections/protozoa-and-protozoan-diseases) to understand better
