@@ -7,4 +7,6 @@ Read the document to understand;
 2. Application 
 3. Case studies
 
-Read my [paper] (<https://commonmark.org/help/tutorial/07-links.html>) to understand better
+Read my [paper](https://www.markdownguide.org/basic-syntax/) to understand better
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
