@@ -3,6 +3,6 @@ This repository contain *resources* that I found useful on my path to **masteri
 
 Read the document to understand;
 
-* concepts
-* Application
-* Case studies
+1. concepts 
+2. Application 
+3. Case studies
