@@ -16,5 +16,5 @@ Read the [Rmd guide](https://www.markdownguide.org/basic-syntax/) to understand 
 ## Gene co-expression Network Analysis
 - [GWENA:](https://github.com/Kumquatum/GWENA)- An Awesome pipeline to construct a Biological network, Module construction and Enrichment analysis
 
-## CAommon Workflow Language
+## Common Workflow Language
 [WCL](http://www.commonwl.org/user_guide/01-introduction/index.html) - A guide for efficient pipeline writing and sharing
