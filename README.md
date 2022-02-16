@@ -10,11 +10,14 @@ Read the document to understand;
 Read the [Rmd guide](https://www.markdownguide.org/basic-syntax/) to understand better
 
 
-## RNA-Seq analysis resources
+### RNA-Seq analysis resources
 
 
-## Gene co-expression Network Analysis
+### Gene co-expression Network Analysis
 - [GWENA:](https://github.com/Kumquatum/GWENA)- An Awesome pipeline to construct a Biological network, Module construction and Enrichment analysis
 
-## Common Workflow Language
+### Common Workflow Language
 - [WCL](http://www.commonwl.org/user_guide/01-introduction/index.html) - A guide for efficient pipeline writing and sharing
+
+### Sra toolkit documentation
+- [How to use Sratoolkit](https://www.reneshbedre.com/blog/ncbi_sra_toolkit.html) - A guidance to effectively using SRAtool
