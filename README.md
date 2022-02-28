@@ -15,3 +15,5 @@ This repository contain *resources* that I found useful on my path to **masteri
 
 #### Contaminating DNA Project
 - [viGEN pipeline](https://github.com/Jkgitau/viGEN) - An elaborate methodology used to conduct this study. All the code, tools and exaplanations are provided
+
+#### You tube channels
