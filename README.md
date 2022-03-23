@@ -8,6 +8,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 - [How to use Sratoolkit](https://www.reneshbedre.com/blog/ncbi_sra_toolkit.html) - A guidance to effectively using SRAtool
 - [Using du and df](https://www.pair.com/support/kb/paircloud-du-and-df/) - These are important commands to know disk utilization and storage space use. The commands are particularly important when using HPC resources
 - [Using R](https://swcarpentry.github.io/r-novice-inflammation/aio/index.html) - A good R learning platform
+- [R for data sceince](https://r4ds.had.co.nz/r-markdown.html)
 - [Differential gene expression](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html#:~:text=First%2C%20the%20count%20data%20needs,using%20your%20tool%20of%20interest.) - Analysis steps to counduct differential gene expression of RNA-Seq data
 - [Havard bioinformatics core](https://github.com/hbctraining) - Bioinformatics training by harvard bioinformatics core
 - [Sample work of WGCNA](https://www.polarmicrobes.org/weighted-gene-correlation-network-analysis-wgcna-applied-to-microbial-communities/) - An example of analysis pipeline with code and results obtained.
