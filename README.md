@@ -12,6 +12,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 - [Differential gene expression](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html#:~:text=First%2C%20the%20count%20data%20needs,using%20your%20tool%20of%20interest.) - Analysis steps to counduct differential gene expression of RNA-Seq data
 - [Havard bioinformatics core](https://github.com/hbctraining) - Bioinformatics training by harvard bioinformatics core
 - [Sample work of WGCNA](https://www.polarmicrobes.org/weighted-gene-correlation-network-analysis-wgcna-applied-to-microbial-communities/) - An example of analysis pipeline with code and results obtained.
+- [stable UCSC human reference genome](https://www.gungorbudak.com/blog/2018/05/16/how-to-download-hg38-grch38-fasta-human-reference-genome/) - Download the stable reference hg38 genome here
 #### WGCNA papers
 - [DGE + Network analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788446/) - This paper combines network analysis and differential gene expression. It includes actual codes used in analysis pipeline.
 - [WGCNA and DGE analysis](https://journals.lww.com/md-journal/fulltext/2019/09130/using_weighted_gene_co_expression_network_analysis.30.aspx)- This paper has the pipeline to conduct DGE and network analysis.
