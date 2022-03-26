@@ -11,6 +11,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 - [Using R](https://swcarpentry.github.io/r-novice-inflammation/aio/index.html) - A good R learning platform
 - [R for data sceince](https://r4ds.had.co.nz/r-markdown.html)
 - [Differential gene expression](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html#:~:text=First%2C%20the%20count%20data%20needs,using%20your%20tool%20of%20interest.) - Analysis steps to counduct differential gene expression of RNA-Seq data
+- [Differential gene expression](https://github.com/hbctraining/DGE_workshop) - A systematic guide to Differential gene expression
 - [Havard bioinformatics core](https://github.com/hbctraining) - Bioinformatics training by harvard bioinformatics core
 - [Sample work of WGCNA](https://www.polarmicrobes.org/weighted-gene-correlation-network-analysis-wgcna-applied-to-microbial-communities/) - An example of analysis pipeline with code and results obtained.
 - [stable UCSC human reference genome](https://www.gungorbudak.com/blog/2018/05/16/how-to-download-hg38-grch38-fasta-human-reference-genome/) - Download the stable reference hg38 genome here
