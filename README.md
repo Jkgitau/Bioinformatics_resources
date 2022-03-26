@@ -15,6 +15,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 - [Havard bioinformatics core](https://github.com/hbctraining) - Bioinformatics training by harvard bioinformatics core
 - [Sample work of WGCNA](https://www.polarmicrobes.org/weighted-gene-correlation-network-analysis-wgcna-applied-to-microbial-communities/) - An example of analysis pipeline with code and results obtained.
 - [stable UCSC human reference genome](https://www.gungorbudak.com/blog/2018/05/16/how-to-download-hg38-grch38-fasta-human-reference-genome/) - Download the stable reference hg38 genome here
+- [Next generation sequence analysis](https://hbctraining.github.io/main/) - A comprehensive NGS series analysis
 #### WGCNA papers
 - [DGE + Network analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788446/) - This paper combines network analysis and differential gene expression. It includes actual codes used in analysis pipeline.
 - [WGCNA and DGE analysis](https://journals.lww.com/md-journal/fulltext/2019/09130/using_weighted_gene_co_expression_network_analysis.30.aspx)- This paper has the pipeline to conduct DGE and network analysis.
