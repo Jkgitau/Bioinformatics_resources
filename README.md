@@ -20,6 +20,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 #### WGCNA papers
 - [DGE + Network analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788446/) - This paper combines network analysis and differential gene expression. It includes actual codes used in analysis pipeline.
 - [WGCNA and DGE analysis](https://journals.lww.com/md-journal/fulltext/2019/09130/using_weighted_gene_co_expression_network_analysis.30.aspx)- This paper has the pipeline to conduct DGE and network analysis.
+- [T-mux tutorial](https://github.com/tmux/tmux/wiki/Getting-Started) - An excellent guide to Tmux usage
 
 #### Breast cancer papers
 - [Network analysis paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688090/) - This is aa well curated paper that describes Gene co-expression analysis
