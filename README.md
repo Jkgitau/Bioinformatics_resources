@@ -27,8 +27,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 
 #### Contaminating DNA Project
 - [viGEN pipeline](https://github.com/Jkgitau/viGEN) - An elaborate methodology used to conduct this study. All the code, tools and exaplanations are provided
-
-#### RNA-Seq contamination project
+- [Decontaminer github](https://github.com/amarinderthind/decontaminer) -  Analysis steps of decontaminer tool - Analysis steps of decontaminer tool -  RNA-Seq contamination project
 -[Decontaminer publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2684-x) - A new pipeline that detects viruses, bacteria and fungi contaminants
 
 #### You tube channels
