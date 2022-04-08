@@ -3,6 +3,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 
 #### An array of Bioinformatics techniques to grasp
 - [Rmd guide](https://www.markdownguide.org/basic-syntax/) - Concepts of Git and Github
+- [All about linux](http://www.ee.surrey.ac.uk/Teaching/Unix/) - wonderful linux resource
 - [Rmarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) - A summary to how R markdown works
 - [GWENA:](https://github.com/Kumquatum/GWENA)- An Awesome pipeline to construct a Biological network, Module construction and Enrichment analysis
 - [WCL](http://www.commonwl.org/user_guide/01-introduction/index.html) - A guide for efficient pipeline writing and sharing
