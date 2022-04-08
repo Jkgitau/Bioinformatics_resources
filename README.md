@@ -15,6 +15,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 - [Havard bioinformatics core](https://github.com/hbctraining) - Bioinformatics training by harvard bioinformatics core
 - [Sample work of WGCNA](https://www.polarmicrobes.org/weighted-gene-correlation-network-analysis-wgcna-applied-to-microbial-communities/) - An example of analysis pipeline with code and results obtained.
 - [stable UCSC human reference genome](https://www.gungorbudak.com/blog/2018/05/16/how-to-download-hg38-grch38-fasta-human-reference-genome/) - Download the stable reference hg38 genome here
+- [gene code reference genome](https://www.gencodegenes.org/human/) - Get both hg18 and hg19 reference genomes here
 - [Next generation sequence analysis](https://hbctraining.github.io/main/) - A comprehensive NGS series analysis
 - [Hisat2 tutorial](https://bioinformatics-core-shared-training.github.io/RNAseq_September_2019/html/C_Alignment_with_HISAT2_practical.html) - A good tutorial of using hisat2
 #### WGCNA papers
