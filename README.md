@@ -2,6 +2,7 @@
 This repository contain *resources* that I found useful on my path to **mastering Bioinformatics**. There are links to proper sites with proper documentation of concepts, books, and other sources of information.
 
 #### An array of Bioinformatics techniques to grasp
+- [DGE analysis](http://bioconductor.org/packages/3.7/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html#design-matrix) - End to end analysis of Differentially expressed genes
 - [Rmd guide](https://www.markdownguide.org/basic-syntax/) - Concepts of Git and Github
 - [Single cell RNA analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) - Single cell RNASeq analysis
 - [All about linux](http://www.ee.surrey.ac.uk/Teaching/Unix/) - wonderful linux resource
