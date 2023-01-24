@@ -4,6 +4,7 @@ This repository contain *resources* that I found useful on my path to **masteri
 #### An array of Bioinformatics techniques to grasp
 - [DGE analysis](http://bioconductor.org/packages/3.7/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html#design-matrix) - End to end analysis of Differentially expressed genes
 - [Rmd guide](https://www.markdownguide.org/basic-syntax/) - Concepts of Git and Github
+- [Prevent the terminal from logging off the server](https://linuxhandbook.com/ssh-broken-pipe-error/)
 - [Single cell RNA analysis](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html) - Single cell RNASeq analysis
 - [All about linux](http://www.ee.surrey.ac.uk/Teaching/Unix/) - wonderful linux resource
 - [Rmarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) - A summary to how R markdown works
