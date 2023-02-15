@@ -2,6 +2,7 @@
 This repository contain *resources* that I found useful on my path to **mastering Bioinformatics**. There are links to proper sites with proper documentation of concepts, books, and other sources of information.
 
 #### An array of Bioinformatics techniques to grasp
+-[R amrkdown](https://ourcodingclub.github.io/tutorials/rmarkdown/#what) - A proper introduction to R markdown with examples
 - [DGE analysis](http://bioconductor.org/packages/3.7/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html#design-matrix) - End to end analysis of Differentially expressed genes
 - [Rmd guide](https://www.markdownguide.org/basic-syntax/) - Concepts of Git and Github
 - [Prevent the terminal from logging off the server](https://linuxhandbook.com/ssh-broken-pipe-error/) - Practical solution
